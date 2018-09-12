@@ -19,4 +19,4 @@ Run first three cell in [notebook](https://github.com/TapanBhavsar/Navigation_DR
 env.close()
 ```
 
-After that run all following cell to train and get graph of average reward over the training to see If the Training is right or not.
+After that run all following cells to train and get graph of average reward over the training to see If the Training is right or not.
